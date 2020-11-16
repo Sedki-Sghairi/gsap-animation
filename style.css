@@ -14,9 +14,9 @@ section {
 .chair {
 	position: absolute;
 	height: 45%;
-	top: 75%;
-	left: 40%;
-	transform: translate(-40%, -75%);
+	top: 79%;
+	left: 35%;
+	transform: translate(-40%, -79%);
 }
 .s1 {
 	background-image: url(./img/bg.jpg);
@@ -90,10 +90,9 @@ section {
 	}
 	.chair {
 		height: 65%;
-		top: 78%;
+		top: 72%;
 		left: 50%;
-
-		transform: translate(-50%, -78%);
+		transform: translate(-50%, -72%);
 	}
 	.s2 h1,
 	.s3 h1,
